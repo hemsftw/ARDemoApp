@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "558034628484-dahmf1p8hb098cu895na3bgd9sdg70rv.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90BJFq5q3rYzDhlchq7cRlpDkNEAHZ6Q"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:558034628484:ios:fd1f087c13d00de9", 
+        "android_client_info": {
+          "package_name": "com.MohakMalhotra.VisED01"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "vised-8c24e.appspot.com", 
+    "project_id": "vised-8c24e", 
+    "firebase_url": "https://vised-8c24e.firebaseio.com", 
+    "project_number": "558034628484"
+  }
+}

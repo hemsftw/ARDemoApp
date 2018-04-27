@@ -339,6 +339,8 @@ GameObject:
   - component: {fileID: 791256589}
   - component: {fileID: 791256588}
   - component: {fileID: 791256587}
+  - component: {fileID: 791256592}
+  - component: {fileID: 791256593}
   m_Layer: 0
   m_Name: ImageTarget
   m_TagString: Untagged
@@ -443,6 +445,28 @@ MonoBehaviour:
   mImageTargetType: 0
   mWidth: 10
   mHeight: 10
+--- !u!114 &791256592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 791256585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247cf13c129284d14bbcc6f4ffd71f1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &791256593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 791256585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c336ac91e0c424460ae795c195e149e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1182411636 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400028, guid: 859c3def7b0fdca4ba4a59bb97a3cb47, type: 3}
