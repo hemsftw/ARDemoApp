@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\CreateAssetBundles.cs" />
+     <Compile Include="Assets\Editor\CreateAssetBundles1.cs" />
      <Compile Include="Assets\Vuforia\Editor\Scripts\OpenSourceInitializer.cs" />
      <None Include="Assets\Firebase\Editor\FirebaseDatabase_v4.5.2_manifest.txt" />
      <None Include="Assets\Firebase\Editor\FirebaseAuth_v4.5.2_manifest.txt" />

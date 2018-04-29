@@ -51,12 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\OBJImport\OBJLoader.cs" />
-     <Compile Include="Assets\OBJImport\TextureLoader.cs" />
      <Compile Include="Assets\Scripts\addModels.cs" />
      <Compile Include="Assets\Scripts\loadAsset.cs" />
-     <Compile Include="Assets\Scripts\Loader3DS.cs" />
-     <Compile Include="Assets\Scripts\model_controller.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
      <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-storage-unity\maven-metadata.xml" />
@@ -71,7 +67,6 @@
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Object_OT.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
-     <None Include="Assets\OBJImport\readme.txt" />
      <None Include="Assets\Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml" />
      <None Include="Assets\Scripts\README.txt" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
