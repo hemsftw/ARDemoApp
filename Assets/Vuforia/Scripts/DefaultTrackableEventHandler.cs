@@ -78,11 +78,18 @@ public class DefaultTrackableEventHandler : MonoBehaviour, ITrackableEventHandle
         var rendererComponents = GetComponentsInChildren<Renderer>(true);
         var colliderComponents = GetComponentsInChildren<Collider>(true);
         var canvasComponents = GetComponentsInChildren<Canvas>(true);
-
+    
         // Enable rendering:
-        foreach (var component in rendererComponents)
+        foreach (var component in rendererComponents){
             component.enabled = true;
-
+            Debug.Log("Component name " + component.name );
+            // target the mainmodel
+            if (component.name != "Heart"){
+                component.GetComponent<Animation>().Play("Heart|beating_ac");
+                Debug.Log("Animation playing " +  component.GetComponent<Animation>().isPlaying);
+            }
+        }
+            
         // Enable colliders:
         foreach (var component in colliderComponents)
             component.enabled = true;

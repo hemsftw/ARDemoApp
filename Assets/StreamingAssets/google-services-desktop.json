@@ -11,7 +11,7 @@
       }, 
       "oauth_client": [
         {
-          "client_id": "558034628484-dahmf1p8hb098cu895na3bgd9sdg70rv.apps.googleusercontent.com"
+          "client_id": "558034628484-8b13uqm59bq4kcoui01gbaam52i5btps.apps.googleusercontent.com"
         }
       ], 
       "api_key": [
@@ -20,9 +20,9 @@
         }
       ], 
       "client_info": {
-        "mobilesdk_app_id": "1:558034628484:ios:fd1f087c13d00de9", 
+        "mobilesdk_app_id": "1:558034628484:ios:b9fccd38f521b86e", 
         "android_client_info": {
-          "package_name": "com.MohakMalhotra.VisED01"
+          "package_name": "com.MohakMalhotra.VisedV2"
         }
       }
     }

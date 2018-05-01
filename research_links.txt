@@ -1,0 +1,2 @@
+https://developer.vuforia.com/forum/unity-extension-technical-discussion/playing-animation-unity3d
+https://answers.unity.com/questions/1360261/vuforia-ar-play-animation-on-target-image-found-sc.html
