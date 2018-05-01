@@ -1,2 +1,8 @@
 https://developer.vuforia.com/forum/unity-extension-technical-discussion/playing-animation-unity3d
 https://answers.unity.com/questions/1360261/vuforia-ar-play-animation-on-target-image-found-sc.html
+https://docs.unity3d.com/ScriptReference/WWW.html
+https://forum.unity.com/threads/how-to-load-a-animated-prefab-from-assetbundle-properly.272598/
+https://answers.unity.com/questions/1081782/vuforia-playing-an-animation-for-a-instanced-model.html
+https://developer.vuforia.com/forum/android/animation-not-playing-target-found
+https://www.youtube.com/watch?v=JeZkctmoBPw
+
